@@ -21,7 +21,9 @@ Structured| Semi-Structured| Unstructured
 Data organized into strict schema| Data not conforming to a schema but has some structure|Data that has no schema
 e.g tables| e.g xml|e.g photos
 
-`print("DS Bootcamp")`
+```python
+print("DS Bootcamp")
+```
 
 [Read more](https://en.wikipedia.org/wiki/Data_science%E2%80%9D)
 
