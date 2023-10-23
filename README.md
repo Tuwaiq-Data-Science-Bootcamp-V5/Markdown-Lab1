@@ -1,21 +1,22 @@
-# Markdown-Lab1
+# **Data Science**
+## **What is Data Science?**
 
-### Use Markdown rules to apply [this styles.](https://github.com/Tuwaiq-Data-Science-Bootcamp-V4/Markdown-Lab1/blob/main/style.md)
-
-![](https://paper-attachments.dropboxusercontent.com/s_D9627FF11E0897FC1441B9CD82C6E539C12E2795FDF04E895A2205B1BE56A599_1673423145864_Screen+Shot+1444-06-17+at+9.20.35+AM.png)
+**Data Science ** is *multidisciplinary field* that combines statistics, Computer science, and domain knowledge.
 
 
-### Hint: for more information, go to: https://www.markdownguide.org/cheat-sheet/
+<img  alt="Screen Shot 1444-06-17 at 9 20 35 AM" src="https://github.com/HESHAM-SA/Git-Lab3/assets/62900612/42e43cf1-5b68-4768-9b6d-1a402db222a8" width="400" height="400">
 
-Requirements:
-- Heading style.
-    - H1 for “Data Science”.
-    - H2 for "What is Data Science?”.
-    - H3 for “Data Types”.
-- A bold style for the “Data Science” definition.
-- An italic style for “multidisciplinary field “.
-- Image style for “DS.png” and resize the image to width="400" and height="400".
-- Unordered List for Data Types.
-- Link style for the following link “https://en.wikipedia.org/wiki/Data_science”.
-- Table style for Data Types.
-- Code style for Python code prints “DS Bootcamp”.
+### **Data Types:**
+- Structured data 
+- semi Structured data 
+- unstructured data 
+
+
+| Structured | Semi Structured |unstructured |
+|------------|------------------|------------|
+|it is data that has been organized into strict schema|it is data not conform to a schema but has some structure.| It is data that has no schema.
+|e.g: tables| e.g: xml|e.g: photos
+
+'''{ print("DS Bootcamp")}'''
+
+[**Read More**](https://en.wikipedia.org/wiki/Data_science%E2%80%9D)
