@@ -3,7 +3,7 @@
 **Data Scince** is a *multidisciplinary field* that combines statistics,computer science, and domain knowledge.
 
 
-<img src="DS.png" width="200" height="200">
+<img src="DS.png" width="350" height="350">
 
 ### Data Types
 
